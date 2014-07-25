@@ -1,6 +1,5 @@
-{
-    "katalog": [
-	{ "kata": "FizzBuzz" },
-	{ "kata": "Prime Factors" }
-    ]
-}
+[
+	{ "name": "FizzBuzz" },
+	{ "name": "Prime Factors" }
+]
+
