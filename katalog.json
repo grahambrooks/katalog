@@ -1,5 +1,7 @@
 [
-	{ "name": "FizzBuzz" },
-	{ "name": "Prime Factors" }
+	{ "name": "FizzBuzz", "summary": "Fizz buzz (also known as bizz buzz, or simply buzz) is a group word game for children to teach them about division. Players take turns to count incrementally, replacing any number divisible by three with the word \"fizz\", and any number divisible by five with the word
+\"buzz\"" },
+	{ "name": "Prime Factors", "summary": "Write a static method generate() that given an integer N will return a list of integers such that the numbers are the factors of N and are arranged in increasing numerical order. generate(1) should return an empty list. generate(30) should return the numbers 2,3,5."
+}
 ]
 
