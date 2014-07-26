@@ -21,8 +21,14 @@
     },
     {
 	"name": "Bowling Game",
-	"summary": "",
+	"summary": "Count and sum the scores of a bowling game of one player. A bowling game consists of 10 frames in which the player tries to knock down the 10 pins. In every frame the player can throw one or two times. The actual number depends on strikes and spares. The score of a frame is the number of knocked down pins plus bonuses for strikes and spares. After every frame the 10 pins are resettet.",
 	"href": "http://content.codersdojo.org/code-kata-catalogue/bowling-game/"
+    },
+    {
+	"name": "Red Pencil Promotion",
+	"summary": "We provide a shopping portal, where dealers can offer their goods (similiar to Amazon market place). We want to support red pencil promotions for reduced prices. During the red pencil promotion the old price is crossed out in red and the new reduced price is written next to it.",
+	"href": "http://content.codersdojo.org/code-kata-catalogue/red-pencil-promotion/"
     }
+
 ]
 
